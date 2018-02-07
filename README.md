@@ -1,6 +1,6 @@
 # This Project is Part of the:
 # Machine Learning Engineer Nanodegree
-# Content: Unsupervised Learning
+# Content: Deep Learning
 ## Project: Dog Breed Recognition
 
 ### Goal of the Project
